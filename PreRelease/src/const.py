@@ -1,3 +1,0 @@
-# File Constants
-
-item = "h"
